@@ -1,0 +1,24 @@
+body {
+    background-color: darkolivegreen;
+    color: black;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:visited {
+    color: aqua;
+}
+
+li {
+    padding: 10px;
+    margin: 5px;
+    background-color: black;
+    display: inline-block;
+}
