@@ -2,3 +2,30 @@ img {
     width: 500px;
     height: 300px;
 }
+
+body {
+    background-color: darkolivegreen;
+
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    padding: 10px;
+    background-color: black;
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover {
+    background-color: white;
+    color: black;
+}
+
+ol {
+    display: inline-block;
+}
