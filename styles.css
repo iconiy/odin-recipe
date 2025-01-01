@@ -16,9 +16,15 @@ a:visited {
     color: aqua;
 }
 
+li:hover {
+    background-color: white;
+    color: black;
+}
+
 li {
     padding: 10px;
     margin: 5px;
     background-color: black;
     display: inline-block;
 }
+
